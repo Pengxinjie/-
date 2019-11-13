@@ -1,6 +1,6 @@
 //方法一：无脑算法
 
-//返回区间(2,n)中有几个质数
+//返回区间[2,n]中有几个质数
 int countPrimes(int n)
 {
   int count=0;
