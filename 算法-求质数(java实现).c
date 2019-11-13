@@ -22,3 +22,4 @@ boolean isPrime(int n)
   return true;
 }
 
+/*时间复杂度为O（n^2）,两个函数都不够高效*/
