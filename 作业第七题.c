@@ -27,7 +27,7 @@ int main(void)
 	scanf("%s%s",str1,str2);//获取用户输入
 	scanf(" %c",&c);//输入要插入的位置
 
-    strcpy(str3,insert(str1,str2,c));//接住函数的返回值，并复制给str3
+    	strcpy(str3,insert(str1,str2,c));//接住函数的返回值，并复制给str3
 	printf("%s\n",str3);//打印出来
 
 	system("pause");
