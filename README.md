@@ -170,6 +170,6 @@ Task list
 
 	2.emoji(有趣的东西来了)
 	格式：       :表情名:
-	eg.  :smile::cry::laugh:  
+	eg.  :smile::cry::cute:  
 ***效果：***  
-:smile::cry::laugh:
+:smile::cry::cute:
